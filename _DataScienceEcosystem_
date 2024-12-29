@@ -1,0 +1,214 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e14429b5-e162-4331-87fc-44517a845cb9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "24d4a6c5-31d7-438f-8da5-a92cf3bc84df",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "82e5687f-51f6-4a2a-b01a-a13bfb50e16b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "12b16307-3617-4585-a6d7-0c2392e30538",
+   "metadata": {},
+   "source": [
+    "**Objectives**:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fee18d80-fc94-48ea-9d3c-b4b4606e7ffc",
+   "metadata": {},
+   "source": [
+    "1- List Popular Language used for Data science.\n",
+    "\n",
+    "2- List Popular Libraries used by data scinces tools\n",
+    "\n",
+    "3-Descirbe API"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1432d1df-ac46-47ca-afc4-601806ac2bd3",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2e623148-27a2-4f45-b8a2-ebcc7b5e5e47",
+   "metadata": {},
+   "source": [
+    "1- PYTHON\n",
+    "2- R\n",
+    "3- SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c5c5809c-7c7f-4175-b1c4-41e6aca6b6d2",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "685afadb-7e5c-422b-9060-2119f9e7b8f4",
+   "metadata": {},
+   "source": [
+    "1- PANDAS\n",
+    "2- NumPy\n",
+    "3- Matplotlib\n",
+    "4- Scikit-learn"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e2721ee0-205d-4165-bd65-7b2c46c3ab76",
+   "metadata": {},
+   "source": [
+    "Data Science Tools\n",
+    "\n",
+    "\n",
+    "1- Jupyter Notebooks  \n",
+    "\n",
+    "2- RStudio    \n",
+    "\n",
+    "3- Spyder    \n",
+    "\n",
+    "4- Apache Zeppelin"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e5985aaf-bdad-4890-b264-9b6eceed600a",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "60726313-2237-4346-a21b-423d9ff4dec0",
+   "metadata": {},
+   "source": [
+    "This a simple arithmetic expression to mutiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "cc5b370a-6813-4484-be1b-4c2f324e58a7",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "031eaf66-be8b-4bbc-8274-721604a47d1e",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "9ca4b099-197f-4501-b92f-c0cb3d951dc5",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200 / 60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3bbe1779-7724-4be3-9189-13a8d1ab9d20",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4af08689-5b57-439f-b1cc-035b90f9f466",
+   "metadata": {},
+   "source": [
+    "##Author: HAMDI"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f95b6091-d79f-4428-abb8-bd7313de99dc",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
